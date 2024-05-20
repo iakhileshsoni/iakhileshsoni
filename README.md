@@ -1,8 +1,8 @@
-### Hi 👋 I am Akhilesh Kumar Soni
+### Hi 👋 There, I am Akhilesh Kumar Soni
 
-🔭 I’m a Software Development Engineer working with Python & Django
+🔭 I’m a Software Engineer working with Python & Django
 
-I’m currently learning ReactJS
+Currently upgrading myself to explore new tech stacks
 
 📫 You can reach me out: 
 
@@ -40,19 +40,5 @@ I’m currently learning ReactJS
 
 2. Passionate for learning & exploring new Technologies.
 
-3. I love to code and always try to implement new ideas and to have experiments
+3. I love to code and always try to implement new ideas
 
-<!--
-**AkhilWorld143/AkhilWorld143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
