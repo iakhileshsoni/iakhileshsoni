@@ -7,10 +7,7 @@ Currently upgrading myself to explore new tech stacks
 📫 You can reach me out: 
 
 
-1. LinkedIn: https://www.linkedin.com/in/akhileshsoni/
-
-2. Twitter: https://twitter.com/Akhilesh13Kumar
-
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/akhileshsoni) [![Twitter](https://img.icons8.com/color/48/000000/twitter.png)](https://twitter.com/Akhilesh13Kumar)
 
 
 
