@@ -26,7 +26,7 @@ Currently upgrading myself to explore new technologies
 
 
 
-1. My primary working technology is Python and Django
+1. My primary working technology is Python and Generative AI
 
 2. Passionate for learning & exploring new Technologies.
 
