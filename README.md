@@ -11,8 +11,8 @@ Currently upgrading myself to explore new technologies
 
 &nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-akhileshsoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akhileshsoni/)](https://www.linkedin.com/in/akhileshsoni/)
 [![Gmail Badge](https://img.shields.io/badge/-itsakhileshsoni@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsakhileshsoni@gmail.com)](mailto:itsakhileshsoni@gmail.com)
- [![Twitter Badge](https://img.shields.io/badge/-Akhilesh13Kumar-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/Akhilesh13Kumar)](https://www.twitter.com/Akhilesh13Kumar)
- [![Github Badge](https://img.shields.io/badge/-iakhileshsoni-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/iakhileshsoni/)](https://github.com/iakhileshsoni/)
+[![Twitter Badge](https://img.shields.io/badge/-Akhilesh13Kumar-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/Akhilesh13Kumar)](https://www.twitter.com/Akhilesh13Kumar)
+[![Github Badge](https://img.shields.io/badge/-iakhileshsoni-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/iakhileshsoni/)](https://github.com/iakhileshsoni/)
 
 <hr>
 
