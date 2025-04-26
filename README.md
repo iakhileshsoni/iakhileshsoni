@@ -1,4 +1,7 @@
-### Hi 👋 There, I am Akhilesh Kumar Soni
+<h1 align="center">
+  
+  ### Hi 👋 There, I am Akhilesh Kumar Soni
+</h1>
 
 🔭 I’m a Software Engineer working with Python & Django
 
