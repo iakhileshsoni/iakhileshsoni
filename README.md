@@ -26,7 +26,7 @@ Currently upgrading myself to explore new technologies
 
 
 
-1. My primary working technology is Python and Generative AI
+1. My primary working technology is <b>Python</b> and <b>Generative AI</b>
 
 2. Passionate for learning & exploring new Technologies.
 
