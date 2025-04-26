@@ -22,7 +22,7 @@ Currently upgrading myself to explore new tech stacks
 
 
 
-### My Technical Journey and Goals ![rocket](https://user-images.githubusercontent.com/61263785/119502648-c77c9f80-bd87-11eb-9460-e4cc43afd63b.png)
+### My Technical Journey and Goals 🚀
 
 
 
