@@ -14,13 +14,14 @@ Currently upgrading myself to explore new technologies
  [![Twitter Badge](https://img.shields.io/badge/-Akhilesh13Kumar-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/Akhilesh13Kumar)](https://www.twitter.com/Akhilesh13Kumar)
  [![Github Badge](https://img.shields.io/badge/-iakhileshsoni-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/iakhileshsoni/)](https://github.com/iakhileshsoni/)
 
+<hr>
 
 ### My Technical Skills ![computer](https://user-images.githubusercontent.com/61263785/119502104-31e11000-bd87-11eb-810a-e82b5794d57e.jpg) 
 
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)   ![Django](https://img.icons8.com/color/48/000000/django.png)   ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)   ![Git](https://img.icons8.com/color/48/000000/git.png)   ![GitHub](https://img.icons8.com/color/48/000000/github-2.png)   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="FastAPI" width="48" height="48">   ![Flask](https://img.icons8.com/color/48/000000/flask.png)   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)   ![CSS3](https://img.icons8.com/color/48/000000/css3.png)   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)   ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)   ![ReactJS](https://img.icons8.com/color/48/000000/react-native.png)   ![PHP](https://img.icons8.com/color/48/000000/php.png)   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="48" height="48"> 
 
-
+<hr>
 
 ### My Technical Journey and Goals 🚀
 
