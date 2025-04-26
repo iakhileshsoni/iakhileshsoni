@@ -3,9 +3,9 @@
   Hi There 👋, I am Akhilesh Kumar Soni
 </h1>
 
-🔭 I’m a <b>Lead Software Engineer<b> working on <b>Generative AI</b>
+🔭 I’m a <b>Lead Software Engineer</b> working on <b>Generative AI</b>
 
-Currently upgrading myself to explore new tech stacks
+Currently upgrading myself to explore new technologies
 
 📫 You can reach me out: </br>
 
